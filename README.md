@@ -41,4 +41,4 @@ The [RegisterIncome](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/L
 ### KISS (Keep It Simple, Stupid)
 - The structure of the code is simple and clear. Each class and [method]([./lab1_kpz/classes/Product.cs#L24-L32](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Lab1/Product.cs)) has a clear functionality and is not overloaded with unnecessary logic
 # UML
-!([uml_diagram.png](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Screenshot%202025-04-16%20185525.png))
+![uml_diagram.png](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Screenshot%202025-04-16%20185525.png)
