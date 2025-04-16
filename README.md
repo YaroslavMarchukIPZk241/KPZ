@@ -4,7 +4,7 @@
 Each class is responsible for one responsibility:
 - [Product](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Lab1/Product.cs) – responsible for product data (name, price, quantity, etc.).
 - [Money](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Lab1/Money.cs) – responsible for processing monetary units and currencies.
-- [Reporting](.https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Lab1/Reporting.cs) – responsible for displaying reports and operations on products (adding, subtracting, etc.).
+- [Reporting](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Lab1/Reporting.cs) – responsible for displaying reports and operations on products (adding, subtracting, etc.).
 - [Warehouse](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Lab1/Warehouse.cs) – manages the list of products and interacts with reports.
 - [Printers](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Lab1/Printers.cs) – outputs money and goods data.
 - [WarehouseOperation](https://github.com/YaroslavMarchukIPZk241/KPZ/blob/master/Lab1/WarehouseOperation.cs) – manages the list of goods and interacts with reports.
