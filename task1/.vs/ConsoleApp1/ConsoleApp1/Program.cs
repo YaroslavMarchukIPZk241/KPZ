@@ -24,7 +24,7 @@ static class Program
      {
             public override ISubscription BuySubscription(string subscriptionType)
             {
-                Console.WriteLine("користувач оформлює через сайт");
+                Console.WriteLine("User issues through the Website");
                 switch (subscriptionType.ToLower())
                 {
                     case "premium":
@@ -42,7 +42,7 @@ static class Program
      {
             public override ISubscription BuySubscription(string subscriptionType)
             {
-                Console.WriteLine("користувач оформлює через сайт");
+                Console.WriteLine("User issues through the MobileApp");
                 switch (subscriptionType.ToLower())
                 {
                     case "premium":
@@ -60,7 +60,7 @@ static class Program
      {
             public override ISubscription BuySubscription(string subscriptionType)
             {
-                Console.WriteLine("користувач оформлює через сайт");
+                Console.WriteLine("User issues through the Manager");
                 switch (subscriptionType.ToLower())
                 {
                     case "premium":
@@ -94,22 +94,22 @@ static class Program
             {
                 if (userSubscriptionTime > subscriptionDuration)
                 {
-                    Console.WriteLine("Термін вашої підписки завершився, будь ласка, продовжіть оплату для доступу до контенту.");
+                    Console.WriteLine("Your subscription has expired, please continue paying to access the content.");
                 }
                 else
                 {
-                    Console.WriteLine($"Залишилось часу на підписку: {subscriptionDuration - userSubscriptionTime} днів.");
+                    Console.WriteLine($"Time left to subscribe: {subscriptionDuration - userSubscriptionTime} day");
                 }
             }
             public void RenewSubscription(double userPayment)
             {
                 if (userPayment < tarif)
                 {
-                    Console.WriteLine("У вас недостатньо коштів для продовження підписки.");
+                    Console.WriteLine("You do not have enough funds to continue your subscription.");
                 }
                 else
                 {
-                    Console.WriteLine("Підписку оновлено!");
+                    Console.WriteLine("subscription updated!");
                     subscriptionDuration = subscriptionDuration.Add(userSubscriptionTime);
                 }
             }
@@ -123,12 +123,12 @@ static class Program
                 }
                 else
                 {
-                    Console.WriteLine("вибачте ви перевершили ліміт");
+                    Console.WriteLine("Sorry, you have exceeded the limit.");
                 }
             }
             public void DisplayChannels()
             {
-                Console.WriteLine("Доступні канали:");
+                Console.WriteLine("Available channels:");
                 foreach (var channel in tvChannels)
                 {
                     Console.WriteLine(channel);
@@ -154,22 +154,22 @@ static class Program
             {
                 if (userSubscriptionTime > subscriptionDuration)
                 {
-                    Console.WriteLine("Термін вашої підписки завершився, будь ласка, продовжіть оплату для доступу до контенту.");
+                    Console.WriteLine("Your subscription has expired, please continue paying to access the content.");
                 }
                 else
                 {
-                    Console.WriteLine($"Залишилось часу на підписку: {subscriptionDuration - userSubscriptionTime} днів.");
+                    Console.WriteLine($"Time left to subscribe: {subscriptionDuration - userSubscriptionTime} day");
                 }
             }
             public void RenewSubscription(double userPayment)
             {
                 if (userPayment < tarif)
                 {
-                    Console.WriteLine("У вас недостатньо коштів для продовження підписки.");
+                    Console.WriteLine("You do not have enough funds to continue your subscription.");
                 }
                 else
                 {
-                    Console.WriteLine("Підписку оновлено!");
+                    Console.WriteLine("subscription updated!");
                     subscriptionDuration = subscriptionDuration.Add(userSubscriptionTime);
                 }
             }
@@ -183,12 +183,12 @@ static class Program
                 }
                 else
                 {
-                    Console.WriteLine("вибачте ви перевершили ліміт");
+                    Console.WriteLine("Sorry, you have exceeded the limit.");
                 }
             }
             public void DisplayChannels()
             {
-                Console.WriteLine("Доступні канали:");
+                Console.WriteLine("Available channels:");
                 foreach (var channel in tvChannels)
                 {
                     Console.WriteLine(channel);
@@ -214,22 +214,22 @@ static class Program
             {
                 if (userSubscriptionTime > subscriptionDuration)
                 {
-                    Console.WriteLine("Термін вашої підписки завершився, будь ласка, продовжіть оплату для доступу до контенту.");
+                    Console.WriteLine("Your subscription has expired, please continue paying to access the content.");
                 }
                 else
                 {
-                    Console.WriteLine($"Залишилось часу на підписку: {subscriptionDuration - userSubscriptionTime} днів.");
+                    Console.WriteLine($"Time left to subscribe: {subscriptionDuration - userSubscriptionTime} day");
                 }
             }
             public void RenewSubscription(double userPayment)
             {
                 if (userPayment < tarif)
                 {
-                    Console.WriteLine("У вас недостатньо коштів для продовження підписки.");
+                    Console.WriteLine("You do not have enough funds to continue your subscription.");
                 }
                 else
                 {
-                    Console.WriteLine("Підписку оновлено!");
+                    Console.WriteLine("subscription updated!");
                     subscriptionDuration = subscriptionDuration.Add(userSubscriptionTime);
                 }
             }
@@ -243,12 +243,12 @@ static class Program
                 }
                 else
                 {
-                    Console.WriteLine("вибачте ви перевершили ліміт");
+                    Console.WriteLine("Sorry, you have exceeded the limit.");
                 }
             }
             public void DisplayChannels()
             {
-                Console.WriteLine("Доступні канали:");
+                Console.WriteLine("Available channels:");
                 foreach (var channel in tvChannels)
                 {
                     Console.WriteLine(channel);
@@ -259,13 +259,13 @@ static class Program
     static void Main()
     {
             FCreateSubscription subscriptionMethod = new WebSite();
-            Console.WriteLine("оберіть рівень підписки");
+            Console.WriteLine("Chuse Rang subscription");
             string User = Console.ReadLine();
             ISubscription subscription = subscriptionMethod.BuySubscription(User);
             subscription.CheckSubscriptionStatus();
             subscription.RenewSubscription(1000);
             subscription.DisplayChannels();
-            Console.WriteLine("введіть канали які хочите додати");
+            Console.WriteLine("enter the channels you want to add");
             List<string> channels = new List<string>();
             string channel;
             while (true)
