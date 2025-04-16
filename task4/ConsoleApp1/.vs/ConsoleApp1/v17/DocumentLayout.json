@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task4\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab3\\task4\\consoleapp1\\consoleapp1\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab3\\task4\\consoleapp1\\consoleapp1\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab3\\task4\\consoleapp1\\consoleapp1\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab3\\task4\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SmartTextReaderLocker.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task4\\ConsoleApp1\\ConsoleApp1\\SmartTextReaderLocker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SmartTextReaderLocker.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task4\\ConsoleApp1\\ConsoleApp1\\SmartTextReaderLocker.cs",
+              "RelativeToolTip": "ConsoleApp1\\SmartTextReaderLocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:31:00.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartTextChecker.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task4\\ConsoleApp1\\ConsoleApp1\\SmartTextChecker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SmartTextChecker.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task4\\ConsoleApp1\\ConsoleApp1\\SmartTextChecker.cs",
+              "RelativeToolTip": "ConsoleApp1\\SmartTextChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:30:48.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartTextReader.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task4\\ConsoleApp1\\ConsoleApp1\\SmartTextReader.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SmartTextReader.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task4\\ConsoleApp1\\ConsoleApp1\\SmartTextReader.cs",
+              "RelativeToolTip": "ConsoleApp1\\SmartTextReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:30:32.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task4\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task4\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAQwAoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T14:43:51.513Z",
               "EditorCaption": ""

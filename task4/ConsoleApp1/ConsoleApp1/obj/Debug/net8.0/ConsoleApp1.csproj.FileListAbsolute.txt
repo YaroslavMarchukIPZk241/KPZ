@@ -54,3 +54,4 @@ D:\Універ\kpz\Lab3\task4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\C
 D:\Універ\kpz\Lab3\task4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 D:\Універ\kpz\Lab3\task4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 D:\Універ\kpz\Lab3\task4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Універ\kpz\Lab3\task4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
