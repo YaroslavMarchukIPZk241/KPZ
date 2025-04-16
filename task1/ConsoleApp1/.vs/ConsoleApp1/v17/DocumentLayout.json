@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task1\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab3\\task1\\consoleapp1\\consoleapp1\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab3\\task1\\consoleapp1\\consoleapp1\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab3\\task1\\consoleapp1\\consoleapp1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab3\\task1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD5819A-1F8B-43C2-8DEB-3974D6B19450}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task1\\ConsoleApp1\\ConsoleApp1\\FileWriter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FileWriter.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task1\\ConsoleApp1\\ConsoleApp1\\FileWriter.cs",
+              "RelativeToolTip": "ConsoleApp1\\FileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:39:34.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task1\\ConsoleApp1\\ConsoleApp1\\Logger.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Logger.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task1\\ConsoleApp1\\ConsoleApp1\\Logger.cs",
+              "RelativeToolTip": "ConsoleApp1\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:39:28.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileLoggerAdapter.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task1\\ConsoleApp1\\ConsoleApp1\\FileLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FileLoggerAdapter.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task1\\ConsoleApp1\\ConsoleApp1\\FileLoggerAdapter.cs",
+              "RelativeToolTip": "ConsoleApp1\\FileLoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:01:53.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab3\\task1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:43:51.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
