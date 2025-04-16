@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab1\\lab1\\printers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|solutionrelative:lab1\\printers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab1\\lab1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|solutionrelative:lab1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab1\\lab1\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|solutionrelative:lab1\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab1\\lab1\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|solutionrelative:lab1\\reporting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab1\\lab1\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|solutionrelative:lab1\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|d:\\\u0443\u043D\u0456\u0432\u0435\u0440\\kpz\\lab1\\lab1\\warehouseoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC03A0-AB4D-4477-AB79-279D6F1950A1}|Lab1\\Lab1.csproj|solutionrelative:lab1\\warehouseoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Product.cs",
+              "RelativeDocumentMoniker": "Lab1\\Product.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Product.cs",
+              "RelativeToolTip": "Lab1\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:52:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Money.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Money.cs",
+              "RelativeDocumentMoniker": "Lab1\\Money.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Money.cs",
+              "RelativeToolTip": "Lab1\\Money.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:55:12.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reporting.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Reporting.cs",
+              "RelativeDocumentMoniker": "Lab1\\Reporting.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Reporting.cs",
+              "RelativeToolTip": "Lab1\\Reporting.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:15:58.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Lab1\\Warehouse.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Warehouse.cs",
+              "RelativeToolTip": "Lab1\\Warehouse.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:56:13.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Printers.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Printers.cs",
+              "RelativeDocumentMoniker": "Lab1\\Printers.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Printers.cs",
+              "RelativeToolTip": "Lab1\\Printers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:42:08.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\Program.cs",
+              "RelativeToolTip": "Lab1\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vyUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:50:19.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WarehouseOperation.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\WarehouseOperation.cs",
+              "RelativeDocumentMoniker": "Lab1\\WarehouseOperation.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0456\u0432\u0435\u0440\\kpz\\Lab1\\Lab1\\WarehouseOperation.cs",
+              "RelativeToolTip": "Lab1\\WarehouseOperation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:39:48.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
